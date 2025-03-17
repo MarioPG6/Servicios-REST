@@ -41,8 +41,11 @@ El desarrollo se basa en una aplicación web que permite a los usuarios realizar
 5. Se utilizan servicios REST para la comunicación entre el frontend y el backend.
 
 ## Imágenes de Funcionamiento
-![image](https://github.com/user-attachments/assets/fe25ee89-a8ce-44bc-8110-995649f5083a)
-![image](https://github.com/user-attachments/assets/ef46d9d4-8737-49c8-b38d-5144c30c75c5)
+![image](https://github.com/user-attachments/assets/4e7624d6-e946-4389-b198-f42a7764623e)
+![image](https://github.com/user-attachments/assets/9f311b1d-a871-433d-b6b7-abb05734faa0)
+![image](https://github.com/user-attachments/assets/856f1212-28f6-4ff9-bba3-688017ed5c3f)
+
+
 
 ## Conclusión
 Este proyecto demostró la aplicación de conceptos fundamentales del desarrollo web en Java, incluyendo el uso de Servlets, JSP y Servicios REST. Se logró una aplicación funcional que permite gestionar registros de manera eficiente a través de una interfaz web dinámica y una API REST.
